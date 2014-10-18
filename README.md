@@ -1,6 +1,6 @@
 .NET-asp.net-web-applications
 =============================
-This assignment from my .NET course has me utilizing the ASP.NET web application framework in order to create three dynamic web application projects and one web service. 
+This assignment from my .NET course has me utilizing the ASP.NET web application framework in order to create three dynamic web application projects and one web service. The web apps are comprised of aspx files for the front-end events and controls with code-behind files of C# code that carries out the server-side computing. This is similar to the web service, with an asmx file and code-behind file, though differs in that it is less concerned with the GUI than its web app counterpart.
 
 The first web application project consists of the previous J Table Functions from the .NET-transact-sql-database and .NET-ado.net-linq-database solutions, re-interpreted using the ASP.NET framework. Specifically, the routines/procedures insertj, printj, and jsp are reconstructed as an ASP.NET web application with an html interface. Each of these functions is comprised of a markup file (.aspx) and a code-behind file (aspx.cs); thus, this problem uses the code-behind page model. The code-behind file contains programming code that compliments the functionality in the aspx files. 
 
